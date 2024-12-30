@@ -1,7 +1,9 @@
 <h1 align="center">Hello, I'm Harshit Ranjan</h1>
+
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmadhavagarwal3012%2Fmadhavagarwal3012&psig=AOvVaw288XNc-GaThDU60iz0Im3h&ust=1735680995331000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjW69-50IoDFQAAAAAdAAAAABAE" alt="Coder working on a desk" width="500" />
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNvZ3gwNzk1N2pwN2RsbXRjdnc5dXF4dGk1cnNnaTh2ZTlibHBnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder working on a desk" width="500" />
 </p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshits-world&label=Profile%20views&color=0e75b6&style=flat" alt="harshits-world" /> </p>
 
 - 🔭 Currently working on **Web Development Projects**
