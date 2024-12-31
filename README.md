@@ -1,25 +1,26 @@
 <h1 align="center">Hello, I'm Harshit Ranjan</h1>
 <h3 align="center">A passionate problem solver and developer</h3>
 
-<p align="right">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNvZ3gwNzk1N2pwN2RsbXRjdnc5dXF4dGk1cnNnaTh2ZTlibHBnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder working on a desk" width="400" />
-</p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshits-world&label=Profile%20views&color=0e75b6&style=flat" alt="harshits-world" /> </p>
 
-- 🔭 Currently working on **Web Development Projects**
-
-- 🌱 I’m currently learning **Node.js, Express.js**
-
-- 🌍 Always learning and exploring **new technologies**
-
-- 💬 Ask me about anything related to **Frontend and Backend development!**
-
-- 🛠️ I’m always looking for **new challenges to enhance my skills**
-
-- 📫 How to reach me **harshitranjan7673@gmail.com**
-
-- 😜 Fun fact **I 🧑‍💻 code so much, my keyboard is starting to feel like family.**
+<table width="100%">
+    <tr>
+    <td>
+    <ul>
+    <li>- 🔭 Currently working on **Web Development Projects**</li>
+    <li>- 🌱 I’m currently learning **Node.js, Express.js**</li>
+    <li>- 🌍 Always learning and exploring **new technologies**</li>
+    <li>- 💬 Ask me about anything related to **Frontend development!**</li>
+    <li>- 🛠️ I’m always looking for **new challenges to enhance my skills**</li>
+    <li>- 📫 How to reach me **harshitranjan7673@gmail.com**</li>
+    <li>- 😜 Fun fact **A missing semicolon can ruin your day! 🙃.**</li>
+    </ul>
+    </td>
+    <td>
+    <img align="right" alt="GIF" height="180px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNvZ3gwNzk1N2pwN2RsbXRjdnc5dXF4dGk1cnNnaTh2ZTlibHBnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+    </td>
+    </tr>
+    </table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
