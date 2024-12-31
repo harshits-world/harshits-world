@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshits-world&label=Profile%20views&color=0e75b6&style=flat" alt="harshits-world" /> </p>
 
-<table width="100%">
+<table width="150%">
     <tr>
     <td>
     <ul>
@@ -17,7 +17,7 @@
     </ul>
     </td>
     <td>
-    <img align="right" alt="GIF" height="180px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNvZ3gwNzk1N2pwN2RsbXRjdnc5dXF4dGk1cnNnaTh2ZTlibHBnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+    <img align="right" alt="GIF" height="250px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNvZ3gwNzk1N2pwN2RsbXRjdnc5dXF4dGk1cnNnaTh2ZTlibHBnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
     </td>
     </tr>
     </table>
