@@ -1,7 +1,8 @@
 <h1 align="center">Hello, I'm Harshit Ranjan</h1>
+<h3 align="center">A passionate problem solver and developer</h3>
 
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNvZ3gwNzk1N2pwN2RsbXRjdnc5dXF4dGk1cnNnaTh2ZTlibHBnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder working on a desk" width="500" />
+<p align="right">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDNvZ3gwNzk1N2pwN2RsbXRjdnc5dXF4dGk1cnNnaTh2ZTlibHBnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder working on a desk" width="400" />
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshits-world&label=Profile%20views&color=0e75b6&style=flat" alt="harshits-world" /> </p>
