@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Harshit Ranjan</h1>
-<h3 align="center">A passionate problem solver and developer</h3>
+<h3 align="center">A passionate problem solver and analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshits-world&label=Profile%20views&color=0e75b6&style=flat" alt="harshits-world" /> </p>
 
@@ -7,10 +7,10 @@
     <tr>
     <td>
     <ul>
-    <li>- 🔭 Currently working on **Web Development Projects**</li>
-    <li>- 🌱 I’m currently learning **Node.js, Express.js**</li>
+    <li>- 🔭 Currently working on **Data Analysis Projects**</li>
+    <li>- 🌱 I’m currently learning **BI Tools, Machine Learning**</li>
     <li>- 🌍 Always learning and exploring **new technologies**</li>
-    <li>- 💬 Ask me about anything related to **Frontend development!**</li>
+    <li>- 💬 Ask me about anything related to **Data Cleaning and Data Visualization!**</li>
     <li>- 🛠️ I’m always looking for **new challenges to enhance my skills**</li>
     <li>- 📫 How to reach me **harshitranjan7673@gmail.com**</li>
     <li>- 😜 Fun fact **A missing semicolon can ruin your day! 🙃.**</li>
